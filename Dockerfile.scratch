@@ -1,0 +1,3 @@
+FROM scratch
+ADD application application
+ENTRYPOINT ["/application"]

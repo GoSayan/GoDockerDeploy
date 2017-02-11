@@ -1,0 +1,3 @@
+from golang:latest
+ENV CGO_ENABLED 0
+ENV GOPATH "/gopath"
