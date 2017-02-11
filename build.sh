@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 IMAGE="application-builder"
 
 docker build --rm -f Dockerfile.compile . --tag $IMAGE
