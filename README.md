@@ -1,4 +1,4 @@
-# GoDocker
+# GoDockerDeploy
 
 Build and run a Go project in the smallest containers. This is the example of
 a tiny web server using the `net/http` package from the standard library.   
